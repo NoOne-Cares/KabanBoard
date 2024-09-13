@@ -24,11 +24,11 @@
   flex: 1;
 }
 
-.priority-0 { background-image: url('No-priority.svg');}
-.priority-1 { background-image: url('Img - Low Priority.svg'); }
-.priority-2 { background-image: url('Img - Medium Priority.svg') }
-.priority-3 { background-image: url('Img - High Priority.svg') }
-.priority-4 { background-image: url('SVG - Urgent Priority colour.svg')}
+.priority-0 { background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/No-priority.svg');}
+.priority-1 { background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/Img%20-%20Low%20Priority.svg'); }
+.priority-2 { background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/Img%20-%20Medium%20Priority.svg') }
+.priority-3 { background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/Img%20-%20High%20Priority.svg') }
+.priority-4 { background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/SVG%20-%20Urgent%20Priority%20colour.svg')}
 .headingContainer{
   display: flex;
   flex-direction: row;
@@ -49,10 +49,10 @@
   width: 20px;
 }
 .threeDot{
-  background-image: url('3 dot menu.svg');
+  background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/3%20dot%20menu.svg');
 }
 .add{
-  background-image: url(add.svg);
+  background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/add.svg');
 }
 .cont{
   height: 20px;
@@ -62,13 +62,13 @@
   border-radius: 100%;
 }
 .backlog ,.Backlog{
-  background-image: url('Backlog.svg');
+  background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/Backlog.svg');
 }
 .todo ,.Todo{
-  background-image: url('To-do.svg');
+  background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/To-do.svg');
 }
 .in-progress,.Inprogress{
-  background-image: url('in-progress.svg');
+  background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/in-progress.svg');
 }
 
 .anoop-sharma{
@@ -223,14 +223,14 @@
 }
 
 .menuImage{
-  background-image: url(down.svg);
+  background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/down.svg');
   height: 20px;
   width: 20px;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .displayImage{
-  background-image: url('Display.svg');
+  background-image: url('https://raw.githubusercontent.com/NoOne-Cares/KabanBoard/5cdee3dc0760627948278f724a019d275910086d/public/Display.svg');
   height: 15px;
   width:15px;
   background-size: cover;
